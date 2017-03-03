@@ -1,0 +1,20 @@
+{
+  "name": "Static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "browserify": {
+    "transform": "config-browserify"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "author": "Guillaume Grand Clément",
+  "license": "ISC"
+}
