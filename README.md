@@ -1,0 +1,1 @@
+# HTMLImageCaptureToBase64
